@@ -1,24 +1,29 @@
 # Python-Project
-1.
+1. Notebook : Cleaning (D1)
    Data Cleaning and UNderstanding.
    output : cleaned data.
 
-3. Univariate EDA and (Descriptive & Distribution Analysis)
+2. Notebook : Univariate_EDA (D2)
+   Univariate EDA and (Descriptive & Distribution Analysis)
    input : cleaned data.
 
-4. Bivariate EDA and Inferential Statistics
+
+3. Notebook : _Bivariate_EDA_Stats(D3)
+   Bivariate EDA and Inferential Statistics
    input : cleaned data.
 
-5. Feature Engineering, Statistical Checks, and Modelling Preperation.
+4. Notebook : Feature_Engineering(D4)
+   Feature Engineering, Statistical Checks, and Modelling Preperation.
    input : cleaned data.
    output : final dataset with numerical features and encoded features ready for modelling.
 
-6. Predictive Modeling, Interpretation, and Reporting.
+5. Notebook : Modeling_Report(D5)
+   Predictive Modeling, Interpretation, and Reporting.
    input : final dataset.
    output : final notebook and report.
 
 
-__________Sructure___________
+__________STRUCTURE :___________
 
 Life_Expectancy_Project/ 
 
